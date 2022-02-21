@@ -18,15 +18,15 @@ The Earthquakes Monitor project, visualizes all earthquakes in the last seven da
 <br>
 
 #### App Screenshot:
-![](project_image.png)
+![](../project_image.png)
 
-![](project_image_3.png)
+![](../project_image_3.png)
 
 <br>
 
 #### Data Feed Screenshot:
 
-![](data_feed.png)
+![](../data_feed.png)
 
 <br>
 <br>
