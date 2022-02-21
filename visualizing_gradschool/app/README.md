@@ -6,9 +6,10 @@
 **Backend**: Node.js, Express, DynamoDb, AWS
 <br>
 <br>
+
 #### Project Links:
-**Live Project**: [Process Blog](http://) <br>
-**Portfolio link with description**: [Process Blog](http://) 
+**Live Project**: [Process Blog](https://yoanacodes.github.io/projects/visualizing_gradschool/) <br>
+**Portfolio link with description**: [Process Blog](https://yoanacodes.github.io/visualizinggradschool) 
 
 #### About:
 This project is mainly about experimenting with DynamoDb as a database and getting to know AWS. It was part of a class on Data Structures I took in the MS Data Visualization program at Parsons School of Design. 
@@ -18,15 +19,16 @@ This project visualizes four weeks of my life in grad school – measuring sleep
 <br>
 
 #### App Screenshot:
-![](project_image.png)
+![](../project_image.png)
 
 <br>
+
 #### DynamoDB Queries Screenshot:
 
-![](backend.png)
+![](../backend.png)
 
 <br>
-<br>
+
 #### Project build in Vue
 ```
 cd app
