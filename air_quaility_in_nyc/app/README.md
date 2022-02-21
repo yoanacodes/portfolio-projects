@@ -6,10 +6,10 @@
 **Front-end**: Vue, Vuetify, Vuex<br>
 **Data Analysis**: Python, Pandas, Matplotlib, Jupyter
 <br>
-<br>
+
 #### Project Links:
-**Project**: [Air Quality and Health Outcomes in NYC](http://) <br>
-**Portfolio link with description**: [Air Quality in New York City](http://) 
+**Live Project**: [Air Quality and Health Outcomes in NYC](https://yoanacodes.github.io/projects/air_quaility_in_nyc/) <br>
+**Portfolio link with description**: [Air Quality in New York City](https://yoanacodes.github.io/airquality) 
 
 #### About:
 This project leverages data visualization to uncover different trends in the air quality of New York City and how they affect the population’s health. By looking at how air quality correlates with different metrics such as  Asthma Hospitalizations or Cardiac and Respiratory Deaths in the context of the city geography, we facilitate the analysis of the data and decision making. 
@@ -25,8 +25,9 @@ Explore the indicators by selecting a metric from the dropdown and choosing the 
 
 
 <br>
-<br>
+
 #### Project build in Vue
+
 ```
 npm install
 ```
