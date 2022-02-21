@@ -6,7 +6,6 @@
 **Data Visualization**: d3.js, underscore.js, JavaScript<br>
 **Front-end**: Vue, Vuetify, Vuex<br>
 
-<br>
 
 #### Project Links:
 **Live Project**: [What do you believe in?](https://yoanacodes.github.io/projects/belief_in_conspiracy_theories/) <br>

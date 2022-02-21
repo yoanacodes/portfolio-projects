@@ -1,13 +1,15 @@
 # What do you believe in: Measuring Belief in Conspiracy Theories
 
 <br>
+
 #### Technologies used:
 **Data Visualization**: d3.js, underscore.js, JavaScript<br>
 **Front-end**: Vue, Vuetify, Vuex<br>
-<br>
+
+
 #### Project Links:
-**Live Project**: [What do you believe in?](http://) <br>
-**Portfolio link with description**: [What do you believe in?](http://) 
+**Live Project**: [What do you believe in?](https://yoanacodes.github.io/projects/belief_in_conspiracy_theories/) <br>
+**Portfolio link with description**: [What do you believe in?](https://yoanacodes.github.io/conspiracies) 
 
 #### About:
 Conspiracy theories and the belief in them have exponentially grown in the last few years and are increasingly influencing public opinion and life. Therefore, it is of great importance to analyze what we know historically about what makes certain groups more likely to subscribe to such believes and see if there are any strategies successfully employed in the past to unite people who are likely to be divided by such believes. This project explores which conspiracy theories are most "popular" and if there is any pattern in the way different demographic groups respond to them.
