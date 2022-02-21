@@ -7,8 +7,8 @@
 <br>
 <br>
 #### Project Links:
-**Live Project**: [What We Fought and Fight for: The History of Activism](http://) <br>
-**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](http://) 
+**Live Project**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/projects/activism/) <br>
+**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/activism) 
 
 #### About:
 We have seen an uptick in activism, spanning multiple movements such as race, immigration, women’s rights, lgbt rights, and general demand for equality across all populations. These fights are not new and it is fascinating to see how the artifacts and visuals associated with activism have evolved throughout time.
@@ -25,12 +25,17 @@ It attempts to answer questions such as: What historic movements associated with
 ![](project_image_1.png)
 
 <br>
+
 #### Data Assets Before and After Processing:
+
 Raw Data from API:
 ![](data_before.png)
+
 Cleaned and Optimized Data:
 ![](data_after.png)
+
 <br>
+
 #### Data Cleaning and Processing Pipeline Screenshot:
 
 ![](data_cleaning.png)
@@ -38,6 +43,7 @@ Cleaned and Optimized Data:
 <br>
 <br>
 #### Project build in Vue
+
 ```
 cd app
 npm install
