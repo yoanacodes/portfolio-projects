@@ -1,0 +1,332 @@
+{
+	"answers": {
+		"1": "Definitely not true",
+		"2": "Probably not true",
+		"3": "Not sure/cannot decide",
+		"4": "Probably true",
+		"5": "Definitely true"
+	},
+	"questions": [{
+		"label": "The government is involved in the murder of innocent citizens and/or well-known public figures, and keeps this a secret",
+		"value": "Q1"
+	}, {
+		"label": "The power held by heads of state is second to that of small unknown groups who really control world politics",
+		"value": "Q2"	
+	}, {
+		"label": "Secret organizations communicate with extraterrestrials, but keep this fact from the public",
+		"value": "Q3"
+	}, {
+		"label": "The spread of certain viruses and/or diseases is the result of the deliberate, concealed efforts of some organization",
+		"value": "Q4"
+	}, {
+		"label": "Groups of scientists manipulate, fabricate, or suppress evidence in order to deceive the public",
+		"value": "Q5"
+	}, {
+		"label": "The government permits or perpetrates acts of terrorism on its own soil, disguising its involvement",
+		"value": "Q6"
+	}, {
+		"label": "A small, secret group of people is responsible for making all major world decisions, such as going to war",
+		"value": "Q7"
+	}, {
+		"label": "Evidence of alien contact is being concealed from the public",
+		"value": "Q8"
+	}, {
+		"label": "Technology with mind-control capacities is used on people without their knowledge",
+		"value": "Q9"
+	}, {
+		"label": "New and advanced technology which would harm current industry is being suppressed",
+		"value": "Q10"
+	}, {
+		"label": "The government uses people as patsies to hide its involvement in criminal activity",
+		"value": "Q11"
+	}, {
+		"label": "Certain significant events have been the result of the activity of a small group who secretly manipulate world events",
+		"value": "Q12"
+	}, {
+		"label": "Some UFO sightings and rumors are planned or staged in order to distract the public from real alien contact",
+		"value": "Q13"
+	}, {
+		"label": "Experiments involving new drugs or technologies are routinely carried out on the public without their knowledge or consent",
+		"value": "Q14"
+	}, {
+		"label": "A lot of important information is deliberately concealed from the public out of self-interest",
+		"value": "Q15"
+	}],
+
+	"personalities": [{
+		"label": "Extraverted, enthusiastic",
+		"value": "TIPI1"
+	}, {
+		"label": "Critical, quarrelsome",
+		"value": "TIPI2"
+	}, {
+		"label": "Dependable, self-disciplined",
+		"value": "TIPI3"
+	}, {
+		"label": "Anxious, easily upset",
+		"value": "TIPI4"
+	}, {
+		"label": "Open to new experiences, complex",
+		"value": "TIPI5"
+	}, {
+		"label": "Reserved, quiet",
+		"value": "TIPI6"
+	}, {
+		"label": "Sympathetic, warm",
+		"value": "TIPI7"
+	}, {
+		"label": "Disorganized, careless",
+		"value": "TIPI8"
+	}, {
+		"label": "Calm, emotionally stable",
+		"value": "TIPI9"
+	}, {
+		"label": "Conventional, uncreative",
+		"value": "TIPI10"
+	}],
+
+	"words": [{
+		"label": "boat",
+		"value": "VCL1"		
+	}, {
+		"label": "incoherent",
+		"value": "VCL2"		
+	}, {
+		"label": "pallid",
+		"value": "VCL3"		
+	}, {
+		"label": "robot",
+		"value": "VCL4"		
+	}, {
+		"label": "audible",
+		"value": "VCL5"		
+	}, {
+		"label": "cuivocal",
+		"value": "VCL6"		
+	}, {
+		"label": "paucity",
+		"value": "VCL7"		
+	}, {
+		"label": "epistemology",
+		"value": "VCL8"		
+	}, {
+		"label": "florted",
+		"value": "VCL9"		
+	}, {
+		"label": "decide",
+		"value": "VCL10"		
+	}, {
+		"label": "pastiche",
+		"value": "VCL11"		
+	}, {
+		"label": "verdid",
+		"value": "VCL12"		
+	}, {
+		"label": "abysmal",
+		"value": "VCL13"		
+	}, {
+		"label": "lucid",
+		"value": "VCL14"		
+	}, {
+		"label": "betray",
+		"value": "VCL15"		
+	}, {
+		"label": "funny",
+		"value": "VCL16"		
+	}],
+
+	"demographics": [{
+		"btn_label": "Education",
+		"label": "How much education have you completed?",
+		"value": "education",
+		"values": [{
+			"label": "Less than high school",
+			"value": 1
+		}, {
+			"label": "High school",
+			"value": 2
+		}, {
+			"label": "University degree",
+			"value": 3
+		}, {
+			"label": "Graduate degree",
+			"value": 4
+		}]
+	}, {
+		"btn_label": "Urban/Rural Upbringing",
+		"label": "What type of area did you live when you were a child?",
+		"value": "urban",
+		"values": [{
+			"label": "Rural (country side)",
+			"value": 1
+		}, {
+			"label": "Suburban",
+			"value": 2
+		}, {
+			"label": "Urban (town, city)",
+			"value": 3
+		}]
+	}, {
+		"btn_label": "Gender",
+		"label": "What is your gender?",
+		"value": "gender",
+		"values": [{
+			"label": "Male",
+			"value": 1
+		}, {
+			"label": "Female",
+			"value": 2
+		}, {
+			"label": "Other",
+			"value": 3
+		}]
+	}, {
+		"btn_label": "English native",
+		"label": "Is English your native language?",
+		"value": "engnat",
+		"values": [{
+			"label": "Yes",
+			"value": 1
+		}, {
+			"label": "No",
+			"value": 2
+		}]
+	}, {
+		"btn_label": "Age",
+		"label": "How many years old are you?",
+		"value": "age",
+		"values": []
+	}, {
+		"btn_label": "Dominant hand",
+		"label": "What hand do you use to write with?",
+		"value": "hand",
+		"values": [{
+			"label": "Right",
+			"value": 1
+		}, {
+			"label": "Left",
+			"value": 2
+		}, {
+			"label": "Both",
+			"value": 3
+		}]
+	}, {
+		"btn_label": "Religion",
+		"label": "What is your religion?",
+		"value": "religion",
+		"values": [{
+			"label": "Agnostic",
+			"value": 1
+		}, {
+			"label": "Atheist",
+			"value": 2
+		}, {
+			"label": "Buddhist",
+			"value": 3
+		}, {
+			"label": "Christian (Catholic)",
+			"value": 4
+		}, {
+			"label": "Christian (Mormon)",
+			"value": 5
+		}, {
+			"label": "Christian (Protestant)",
+			"value": 6
+		}, {
+			"label": "Christian (Other)",
+			"value": 7
+		}, {
+			"label": "Hindu",
+			"value": 8
+		}, {
+			"label": "Jewish",
+			"value": 9
+		}, {
+			"label": "Muslim",
+			"value": 10
+		}, {
+			"label": "Sikh",
+			"value": 11
+		}, {
+			"label": "Other",
+			"value": 12
+		}]
+	}, {
+		"btn_label": "Sexual orientation",
+		"label": "What is your sexual orientation?",
+		"value": "orientation",
+		"values": [{
+			"label": "Heterosexual",
+			"value": 1
+		}, {
+			"label": "Bisexual",
+			"value": 2
+		}, {
+			"label": "Homosexual",
+			"value": 3
+		}, {
+			"label": "Asexual",
+			"value": 4
+		}, {
+			"label": "Other",
+			"value": 5
+		}]
+	}, {
+		"btn_label": "Race",
+		"label": "What is your race?",
+		"value": "race",
+		"values": [{
+			"label": "Asian",
+			"value": 1
+		}, {
+			"label": "Arab",
+			"value": 2
+		}, {
+			"label": "Black",
+			"value": 3
+		}, {
+			"label": "Indigenous Australian, Native American or White***",
+			"value": "4"
+		}, {
+			"label": "Other",
+			"value": 5
+		}]
+	}, {
+		"btn_label": "Voted",
+		"label": "Have you voted in a national election in the past year?",
+		"value": "voted",
+		"values": [{
+			"label": "Yes",
+			"value": 1
+		}, {
+			"label": "No",
+			"value": 2
+		}]
+	}, {
+		"btn_label": "Marital status",
+		"label": "What is your marital status?",
+		"value": "married",
+		"values": [{
+			"label": "Never married",
+			"value": 1
+		}, {
+			"label": "Currently married",
+			"value": 2
+		}, {
+			"label": "Previously married",
+			"value": 3
+		}]
+	}, {
+		"btn_label": "Family size",
+		"label": "Including you, how many children did your mother have?",
+		"value": "familysize",
+		"values": []
+	}, {
+		"btn_label": "Major",
+		"label": "If you attended a university, what was your major (e.g. 'psychology', 'English', 'civil engineering')?",
+		"value": "major",
+		"values": []
+	}]
+}
+
+
