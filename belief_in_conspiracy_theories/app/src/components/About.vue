@@ -8,7 +8,7 @@ p
   <v-row justify="center" class="text-center mb-12">
     <v-col class="ma-0 mt-6 pa-0" cols=12>
       <h1 class="display-2 font-weight-light mb-3">
-          What do you believe in?
+          What Do You Believe In?
       </h1>
       <h2 style="font-weight: 300; font-size: 16pt;" class="ma-0 pa-0 mb-10">Measuring Belief in Conspiracy Theories</h2>
     </v-col>
