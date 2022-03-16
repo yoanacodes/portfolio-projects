@@ -8,7 +8,7 @@
 
 #### Project Links:
 **Live Project**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/projects/activism/) <br>
-**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/activism) 
+**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/#/projects/activism) 
 
 #### About:
 We have seen an uptick in activism, spanning multiple movements such as race, immigration, women’s rights, lgbt rights, and general demand for equality across all populations. These fights are not new and it is fascinating to see how the artifacts and visuals associated with activism have evolved throughout time.

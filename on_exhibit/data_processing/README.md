@@ -7,7 +7,7 @@
 
 #### Project Links:
 **Live Project**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.github.io/projects/on_exhibit/) <br>
-**Portfolio link with description**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.github.io/onexhibit) 
+**Portfolio link with description**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.github.io/#/projects/onexhibit) 
 
 
 <br>
