@@ -9,7 +9,7 @@
 
 #### Project Links:
 **Live Project**: [Process Blog](https://yoanacodes.github.io/projects/visualizing_gradschool/) <br>
-**Portfolio link with description**: [Process Blog](https://yoanacodes.github.io/#/projects/visualizinggradschool) 
+**Portfolio link with description**: [Process Blog](https://yoanacodes.com/#/projects/visualizinggradschool) 
 
 #### About:
 This project is mainly about experimenting with DynamoDb as a database and getting to know AWS. It was part of a class on Data Structures I took in the MS Data Visualization program at Parsons School of Design. 

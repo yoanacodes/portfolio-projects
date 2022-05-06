@@ -8,7 +8,7 @@
 
 #### Project Links:
 **Live Project**: [Earthquakes Monitor](https://yoanacodes.github.io/projects/earthquakes_monitor/) <br>
-**Portfolio link with description**: [Earthquakes Monitor](https://yoanacodes.github.io/#/projects/earthquakesMonitor) 
+**Portfolio link with description**: [Earthquakes Monitor](https://yoanacodes.com/#/projects/earthquakesMonitor) 
 
 #### About:
 The United States Geological Survey [(USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) is a US science agency, which among its many missions, monitors global earthquakes at frequencies ranging from the past hour to 1 day to 30 days back.

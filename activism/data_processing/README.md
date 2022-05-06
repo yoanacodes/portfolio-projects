@@ -8,7 +8,7 @@
 
 #### Project Links:
 **Live Project**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/projects/activism/) <br>
-**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.github.io/#/projects/activism) 
+**Portfolio link with description**: [What We Fought and Fight for: The History of Activism](https://yoanacodes.com/#/projects/activism) 
 
 #### App Screenshot:
 ![](../project_image.png)

@@ -8,7 +8,7 @@
 <br>
 #### Project Links:
 **Live Project**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.github.io/projects/on_exhibit/) <br>
-**Portfolio link with description**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.github.io/#/projects/onexhibit) 
+**Portfolio link with description**: [On Exhibit: What's in the Smithsonian?](https://yoanacodes.com/#/projects/onexhibit) 
 
 #### About:
 On Exhibit focuses on artifacts that are exhibited, digitalized and part of the open access API of the Smithsonian Institution, as this gives an interesting perspective on the restrictions museums face in making their collections more accessible to the public. This approach creates, in a way, an online tour of the available artifacts in each museum. Users can choose a museum to explore with a dropdown, and see everything available in that museum (based on the data in the API) chronologically. This not only allows users to see the subset of artifacts that are displayed in the physical space of the museums, but also get to explore virtually a subset of these same artifacts, effectively creating an online tour of the museum - something ever more important in the times of COVID where a lot of constraints exist on public gatherings.
